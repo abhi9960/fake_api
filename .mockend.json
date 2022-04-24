@@ -1,7 +1,91 @@
-{
-  "User": {
-    "title": {
-      "string": {}
-    }
-  }
-}
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "name":"abhishek",
+    "mobileNo":"9893956269",
+    "work": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "location":"nagilej",
+    "area":"sndsand"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+      "name":"abhishek",
+    "mobileNo":"9893956269",
+    "work": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "location":"nagilej",
+    "area":"sndsand"  },
+  {
+    "userId": 1,
+    "id": 3,
+      "name":"abhishek",
+    "mobileNo":"9893956269",
+    "work": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "location":"nagilej",
+    "area":"sndsand"},
+  {
+    "userId": 1,
+    "id": 4,
+     "name":"abhishek",
+    "mobileNo":"9893956269",
+    "work": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "location":"nagilej",
+    "area":"sndsand" },
+  {
+    "userId": 1,
+    "id": 5,
+    "name":"abhishek",
+    "mobileNo":"9893956269",
+    "work": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "location":"nagilej",
+    "area":"sndsand"  },
+  {
+    "userId": 1,
+    "id": 6,
+    "name":"abhishek",
+    "mobileNo":"9893956269",
+    "work": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "location":"nagilej",
+    "area":"sndsand"  },
+  {
+    "userId": 1,
+    "id": 7,
+     "name":"abhishek",
+    "mobileNo":"9893956269",
+    "work": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "location":"nagilej",
+    "area":"sndsand"  },
+  {
+    "userId": 1,
+    "id": 8,
+    "name":"abhishek",
+    "mobileNo":"9893956269",
+    "work": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "location":"nagilej",
+    "area":"sndsand"  },
+  {
+    "userId": 1,
+    "id": 9,
+     "name":"abhishek",
+    "mobileNo":"9893956269",
+    "work": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "location":"nagilej",
+    "area":"sndsand"  },
+  {
+    "userId": 1,
+    "id": 10,
+     "name":"abhishek",
+    "mobileNo":"9893956269",
+    "work": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "location":"nagilej",
+    "area":"sndsand"  },
+  {
+    "userId": 2,
+    "id": 11,
+     "name":"abhishek",
+    "mobileNo":"9893956269",
+    "work": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "location":"nagilej",
+    "area":"sndsand"  },
+]
